@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://assettiger-dashboard.vercel.app/sitemap.xml
